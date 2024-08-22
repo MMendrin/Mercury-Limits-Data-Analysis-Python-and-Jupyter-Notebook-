@@ -1,5 +1,5 @@
 # Mercury Limits Data Analysis Project (Python and Jupyter Notebook)
-Melea Mendrin
+M. Mendrin
 
 The purpose of this project is help city officials determine the health impact of elevated mercury levels in local water supply. With the estimates and data analysis performed in this project, city officials will be better equipped to keep the public safe and provide reasonable recommendations regarding fish consumption in the city.
 
