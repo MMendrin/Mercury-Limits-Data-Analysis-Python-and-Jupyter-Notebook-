@@ -6,4 +6,6 @@ The purpose of this project is help city officials determine the health impact o
 ### Introduction
 Mercury is a toxic substance that can become harmful or potentially fatal when it accumulates in the body in high amounts over time. Due to this, I am prompted to evaluate the possible elevated levels of mercury in a city’s water supply by modeling the levels of mercury an individual accumulates from eating fish from the local water supply. Since individuals who consume fish from this water supply may be at risk for mercury poisoning, by modeling this presence of mercury, it can be determined how much fish is safe to consume.
 
-
+### To view notebook properly
+1). Click on "Mercury Limits Data Analysis (Python and Jupyter Notebook).ipynb" file
+2). Copy website URL and paste into https://nbviewer.org/
